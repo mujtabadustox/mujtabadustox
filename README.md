@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **ReactJs**
 
-- 📫 How to reach me **mujtabazoroark@gmail.com**
+- 📫 Reach me @ **mujtabazoroark@gmail.com**
 
 - 😄 Pronouns: he/they
 
