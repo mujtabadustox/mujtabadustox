@@ -4,7 +4,7 @@
 <a href="https://wakatime.com/@018b0391-b604-45d9-8ac0-709dc25df2a3"><img src="https://wakatime.com/badge/user/018b0391-b604-45d9-8ac0-709dc25df2a3.svg" alt="Total time coded since Oct 6 2023" /></a>
 
 
-- 🌱 I’m currently learning **Typescript, NextJs and GraphQL**
+- 🌱 I’m currently learning **Typescript, NextJs, Python and Go**
 
 - 💬 Ask me about **ReactJs**
 
